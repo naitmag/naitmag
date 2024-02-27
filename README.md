@@ -1,4 +1,4 @@
-### Hi there 👋, i'm Mikhail
+### Hi there 👋, naitmag
 #### Backend developer
 ![I am backend developer](https://i.pinimg.com/564x/e8/09/16/e80916c31edeac7dc70375b7e11a1426.jpg)
 
