@@ -5,7 +5,7 @@
 
 Skills: Python / Java / SQL / Docker
 
-- 🔭 I’m currently working on telegram chat-bot 
+- 🔭 I’m currently working on [Telegram chatbot](https://github.com/naitmag/X08TelegramBot)
 - 🌱 I’m currently learning Docker, Java 
 
 
