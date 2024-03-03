@@ -1,20 +1,33 @@
-### Hi there 👋, i'm yarm
-#### Backend developer
-![I am backend developer](https://i.pinimg.com/564x/e8/09/16/e80916c31edeac7dc70375b7e11a1426.jpg)
+## Backend developer
 
+![Backend developer](https://i.pinimg.com/564x/80/db/33/80db33b2242ea802a67968ded5dd99f3.jpg)
 
-Skills: Python / Java / SQL / Docker
+#### Contacts:
 
-- 🔭 I’m currently working on [Telegram chatbot](https://github.com/naitmag/X08TelegramBot)
-- 🌱 I’m currently learning Docker, Java 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/naitmag/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yarm-dev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.yarmolovich@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naitmag)
 
+#### Skills:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/yarm-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/naitmag/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/naitmag)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naitmag&show_icons=true&count_private=true)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
 
+#### My projects:
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/naitmag/X08TelegramBot)
+
+#### Stats:
+
+![My GitHub streak stats](https://streak-stats.demolab.com/?user=naitmag)
 ![My top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitmag)
-
-![My GitHub streak stats](https://streak-stats.demolab.com/?user=naitmag) 
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=naitmag&show_icons=true&count_private=true)
 
