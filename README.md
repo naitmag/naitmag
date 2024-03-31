@@ -1,6 +1,6 @@
 ## Software developer
 
-![Software developer](https://i.pinimg.com/564x/bf/46/67/bf4667a532b874050eb477bd891f0551.jpg)
+![Software developer](https://media.licdn.com/dms/image/D4D16AQHOOkekXdMXYQ/profile-displaybackgroundimage-shrink_350_1400/0/1711894249564?e=1717632000&v=beta&t=FzPgpeHcue2WI3j37WjeXs4eEr6LoQg2-MXrxEuPg_M)
 
 #### Contacts:
 
